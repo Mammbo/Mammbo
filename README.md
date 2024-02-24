@@ -34,7 +34,6 @@ I'm a aspiring full-stack developer who is really interested in AI that loves to
 
 ![Mammbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mammbo&show_icons=true&theme=tokyonight)
 
-![snake gif](https://github.com/Mammbo/Mammbo/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
