@@ -27,8 +27,6 @@ I'm a aspiring full-stack developer who is really interested in AI that loves to
   
 </div>
 
-<img src="https://raw.githubusercontent.com/Mammbo/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ---
