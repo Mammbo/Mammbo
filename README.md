@@ -28,12 +28,5 @@ I'm a aspiring full-stack developer who is really interested in AI that loves to
 </div>
 
 ###
-
----
-### 📊 Stats
-
-![Mammbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mammbo&show_icons=true&theme=tokyonight)
-
-
 ---
 
